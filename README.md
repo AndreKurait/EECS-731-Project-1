@@ -16,6 +16,15 @@ The project requirements were the following:
 
 ## Project structure
 
+```bash
+.
+├── Data
+│   ├── listings-2017-08-02.csv
+│   ├── listings-2018-08-06.csv
+│   └── listings-2019-08-06.csv
+└── README.md
+```
+
 ## Industry
 
 We selected the AirBnB industry because we couldnt find datasets covering several moments in time. 
