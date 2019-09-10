@@ -44,4 +44,5 @@ These were selected all from August to minimize fluctuations due to seasonality.
 ## Transfromation
 
 We combined the data sets and included date information from each of the points.
+
 Converted "last review date" to "days since last review" to provide more meaningful data in analysis.
