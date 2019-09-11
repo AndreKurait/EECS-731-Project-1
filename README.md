@@ -1,6 +1,6 @@
 # EECS 731 Project 1
 
-This is Andre Kurait and Thor Lyches' first project for EECS 731, Data Science in Fall 2019. For the project one, we combined several AirBnB datasets over NYC to prepare for future analysis of changing price trends.
+This is Andre Kurait's first project for EECS 731, Data Science in Fall 2019. For the project one, I combined several AirBnB datasets over NYC to prepare for future analysis of changing price trends over time.
 
 The project requirements were the following:
 
@@ -27,10 +27,10 @@ The project requirements were the following:
 
 ## Industry
 
-We selected the AirBnB industry because we couldnt find datasets covering several moments in time. 
+I selected the AirBnB industry because I couldn't find any current datasets covering several moments in time. 
 
 ## Data
-We selected AirBnB data from NYC because of NYC's infamous high housing pricing in addition to wide avaliablility of AirBnB listing snapshots over several moments in time.
+I selected AirBnB data from NYC because of NYC's infamous high housing pricing in addition to wide avaliablility of AirBnB listings snapshots over several moments in time.
 
 We got the data from http://insideairbnb.com/get-the-data.html
 
@@ -43,6 +43,6 @@ These were selected all from August to minimize fluctuations due to seasonality.
 
 ## Transfromation
 
-We combined the data sets and included date information from each of the points.
+I combined the data sets and included date information from each of the points.
 
 Converted "last review date" to "days since last review" to provide more meaningful data in analysis.
